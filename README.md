@@ -76,7 +76,8 @@ Weather_app/
 (Add your app screenshots in the `assets` folder and link them here)
 
 ```
-![App Screenshot](assets/screenshot.png)
+<img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/207e27fc-00cb-488f-a0b6-af07adb4f3df" />
+
 ```
 
 ---
