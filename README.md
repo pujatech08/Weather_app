@@ -71,17 +71,6 @@ Weather_app/
 
 ---
 
-## 📸 Screenshots
-
-(Add your app screenshots in the `assets` folder and link them here)
-
-```
-<img width="941" height="431" alt="image" src="https://github.com/user-attachments/assets/207e27fc-00cb-488f-a0b6-af07adb4f3df" />
-
-```
-
----
-
 ## 🙌 Acknowledgements
 
 * Thanks to OpenWeather for providing the weather API
